@@ -10,6 +10,7 @@
   "initialUrlPath": "/login",
   "uninstallConfirmMessage": "Do you really want to uninstall this extension? Doing so will stop any Hosted Pages,  Rules and Database Connection scripts from being deployed from GitLab to Auth0",
   "repository": "https://github.com/auth0-extensions/auth0-gitlab-deploy",
+  "codeUrl": "https://cdn.auth0.com/extensions/auth0-logs-to-splunk/auth0-logs-to-splunk-2.0.js"
   "keywords": [
     "auth0",
     "extension",
